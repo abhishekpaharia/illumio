@@ -10,9 +10,10 @@
 
 ## How to run
 
-- minimum requirment
-  - Java 19
-  - Maven
+### minimum system requirments
+
+- Java 19
+- Maven
 
 ### Steps to run
 
